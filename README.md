@@ -5,10 +5,10 @@ I am doing my master thesis about learning DNA sequence activity like accessibil
 
 ## Menu
 [Reviews](#reviews)  
-[Predicting chromatin accessibility from sequence](#predicting-chromatin-accessibility-from-sequence)
-[Predicting gene expression from sequence](#predicting-gene-expression-from-sequence)
-[Genomic Foundation Models](#genomic-foundation-models)
-[DL-based enhancer design](#dl-based-enhancer-design)
+[Predicting chromatin accessibility from sequence](#predicting-chromatin-accessibility-from-sequence)  
+[Predicting gene expression from sequence](#predicting-gene-expression-from-sequence)  
+[Genomic Foundation Models](#genomic-foundation-models)  
+[DL-based enhancer design](#dl-based-enhancer-design)  
 
 
 
