@@ -103,4 +103,15 @@ wget -r ftp://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeAwgDnase
 wget -r -A "*DNase.hotspot.fdr0.01.peaks.bed.gz" http://egg2.wustl.edu/roadmap/data/byFileType/peaks/consolidated/narrowPeak
 ```
 
+**DNase-seq + ChIp-seq + CAGE**
+```bash
+wget https://storage.googleapis.com/131k/sample_wigs.txt
+wget https://storage.googleapis.com/131k/l131k_w128.bed
+wget https://storage.googleapis.com/131k/l131k_w128.h5
+```
+
+**sc-ATAC seq**  
+[Buenrostro_2018](https://github.com/pinellolab/scATAC-benchmarking/tree/master/Real_Data/Buenrostro_2018/input)  
+
+
 
