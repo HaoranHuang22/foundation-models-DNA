@@ -24,6 +24,11 @@ David R. Kelley, Jasper Snoek, and John L. Rinn.
 *Genome Research, May 2016.*  
 [[10.1101/gr.200535.115](http://www.genome.org/cgi/doi/10.1101/gr.200535.115)][[github code](https://github.com/davek44/Basset)]
 
+**EpiGePT: a Pretrained Transformer model for epigenomics.**
+Zijing Gao, Qiao Liu, Wanwen Zeng, Rui Jiang, Wing Hung Wong.  
+*bioRxiv, February 2024.*  
+[[10.1101/2023.07.15.549134](https://doi.org/10.1101/2023.07.15.549134)][[github code](https://github.com/ZjGaothu/EpiGePT)][[online web](https://health.tsinghua.edu.cn/epigept/)]
+
 ## Predicting gene expression from sequence  
 **Sequential regulatory activity prediction across chromosomes with convolutional neural networks.**  
 David R. Kelley, Yakir A. Reshef, Maxwell Bileschi, David Belanger, Cory Y. McLean and Jasper Snoek.  
@@ -35,7 +40,7 @@ David R. Kelley, Yakir A. Reshef, Maxwell Bileschi, David Belanger, Cory Y. McLe
 ## DL-based enhancer design
 
 ## Datasets
-**DNaseI Hypersensitivity sites**  
+**DNaseI Hypersensitivity sites (DNase-seq)**  
 ```bash
 # ENCODE
 wget -r ftp://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeAwgDnaseUniform
