@@ -7,10 +7,10 @@ I am doing my master thesis about learning DNA sequence activity like accessibil
 [Reviews](#reviews)  
 [Predicting chromatin accessibility from sequence](#predicting-chromatin-accessibility-from-sequence)  
 [Predicting gene expression from sequence](#predicting-gene-expression-from-sequence)  
+[Predicting TF binding from sequence](#predicting-tf-binding-from-sequence)  
 [Genomic Foundation Models](#genomic-foundation-models)  
 [DL-based enhancer design](#dl-based-enhancer-design)  
 [Datasets](#datasets)
-
 
 ## Reviews
 **Chromatin accessibility and the regulatory epigenome.**  
@@ -34,7 +34,12 @@ Han Yuan, David R. Kelley.
 *Nature Methods, August 2022.*  
 [[10.1038/s41592-022-01562-8](https://doi.org/10.1038/s41592-022-01562-8)][[github code](https://github.com/calico/scBasset)]
 
-**EpiGePT: a Pretrained Transformer model for epigenomics.**
+**Bias factorized, base-resolution deep learning models of chromatin accessibility reveal cis-regulatory sequence syntax, transcription factor footprints and regulatory variants.**  
+Anusri Pampari, Anna Shcherbina, Anshul Kundaje.  
+*Manuscript in preparation.*  
+[[github code](https://github.com/kundajelab/chrombpnet)]
+
+**EpiGePT: a Pretrained Transformer model for epigenomics.**  
 Zijing Gao, Qiao Liu, Wanwen Zeng, Rui Jiang, Wing Hung Wong.  
 *bioRxiv, February 2024.*  
 [[10.1101/2023.07.15.549134](https://doi.org/10.1101/2023.07.15.549134)][[github code](https://github.com/ZjGaothu/EpiGePT)][[online web](https://health.tsinghua.edu.cn/epigept/)]
@@ -44,6 +49,17 @@ Zijing Gao, Qiao Liu, Wanwen Zeng, Rui Jiang, Wing Hung Wong.
 David R. Kelley, Yakir A. Reshef, Maxwell Bileschi, David Belanger, Cory Y. McLean and Jasper Snoek.  
 *Genome Research, March 2018.*   
 [[10.1101/gr.227819.117](http://www.genome.org/cgi/doi/10.1101/gr.227819.117)][[github code](https://github.com/calico/basenji)]  
+
+**Effective gene expression prediction from sequence by integrating long-range interactions.**  
+Žiga Avsec, Vikram Agarwal, Daniel Visentin, Joseph R. Ledsam, Agnieszka Grabska-Barwinska, Kyle R. Taylor, Yannis Assael, John Jumper, Pushmeet Kohli & David R. Kelley.  
+*Nature Methods, October 2021.*  
+[[10.1038/s41592-021-01252-x](https://doi.org/10.1038/s41592-021-01252-x)][[github code](https://github.com/google-deepmind/deepmind-research/tree/master/enformer)]  
+
+## Predicting TF binding from sequence  
+**Base-resolution models of transcription-factor binding reveal soft motif syntax.**  
+Žiga Avsec, Melanie Weilert, Avanti Shrikumar, Sabrina Krueger, Amr Alexandari, Khyati Dalal, Robin Fropf, Charles McAnany, Julien Gagneur, Anshul Kundaje, Julia Zeitlinger.  
+*Nature Genetics, February 2021.*  
+[[10.1038/s41588-021-00782-6](https://doi.org/10.1038/s41588-021-00782-6)][[github code](https://github.com/kundajelab/bpnet/)]
 
 ## Genomic Foundation Models
 
