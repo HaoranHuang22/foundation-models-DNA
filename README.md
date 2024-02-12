@@ -82,11 +82,16 @@ Eric Nguyen, Michael Poli, Marjan Faizi, Armin Thomas, Callum Birch-Sykes, Micha
 *arXiv, June 2023.*  
 [[10.48550/arXiv.2306.15794](https://doi.org/10.48550/arXiv.2306.15794)][[github code](https://github.com/HazyResearch/hyena-dna)][[hugging face](https://huggingface.co/papers/2306.15794)]
 
-****
-
-
-
 ## DL-based enhancer design
+**Cell-type-directed design of synthetic enhancers.**  
+Ibrahim I. Taskiran, Katina I. Spanier, Hannah Dickmänken, Niklas Kempynck, Alexandra Pančíková, Eren Can Ekşi, Gert Hulselmans, Joy N. Ismail, Koen Theunis, Roel Vandepoel, Valerie Christiaens, David Mauduit & Stein Aerts.  
+*Nature, December 2023.*  
+[[10.1038/s41586-023-06936-2](https://doi.org/10.1038/s41586-023-06936-2)]
+
+**DNA-Diffusion: Leveraging Generative Models for Controlling Chromatin Accessibility and Gene Expression via Synthetic Regulatory Elements.**  
+Lucas Ferreira DaSilva, Simon Senan, Zain Munir Patel, Aniketh Janardhan Reddy, Sameer Gabbita, Zach Nussbaum, César Miguel Valdez Córdova, Aaron Wenteler, Noah Weber, Tin M. Tunjic, Talha Ahmad Khan, Zelun Li, Cameron Smith, Matei Bejan, Lithin Karmel Louis, Paola Cornejo, Will Connell, Emily S. Wong, Wouter Meuleman,  Luca Pinello.  
+*bioRxiv, February 2024.*  
+[[10.1101/2024.02.01.578352](https://doi.org/10.1101/2024.02.01.578352)][[github code](https://github.com/pinellolab/DNA-Diffusion)]
 
 ## Datasets
 **DNaseI Hypersensitivity sites (DNase-seq)**  
