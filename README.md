@@ -62,6 +62,29 @@ David R. Kelley, Yakir A. Reshef, Maxwell Bileschi, David Belanger, Cory Y. McLe
 [[10.1038/s41588-021-00782-6](https://doi.org/10.1038/s41588-021-00782-6)][[github code](https://github.com/kundajelab/bpnet/)]
 
 ## Genomic Foundation Models
+**DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.**  
+Yanrong Ji, Zhihan Zhou, Han Liu, Ramana V Davuluri.  
+*Bioinformatics, August 2021.*  
+[[10.1093/bioinformatics/btab083](https://doi.org/10.1093/bioinformatics/btab083)][[github code](https://github.com/jerryji1993/DNABERT)][[hugging face](https://huggingface.co/zhihan1996)]
+
+**DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome.**  
+Zhihan Zhou, Yanrong Ji, Weijian Li, Pratik Dutta, Ramana Davuluri, Han Liu.  
+*arXiv, June 2023.*  
+[[10.48550/arXiv.2306.15006](https://doi.org/10.48550/arXiv.2306.15006)][[github code](https://github.com/Zhihan1996/DNABERT_2)][[hugging face](https://huggingface.co/zhihan1996/DNABERT-2-117M)]
+
+**The Nucleotide Transformer: Building and Evaluating Robust Foundation Models for Human Genomics.**  
+Hugo Dalla-Torre, Liam Gonzalez, Javier Mendoza-Revilla, Nicolas Lopez Carranza, Adam Henryk Grzywaczewski, Francesco Oteri, Christian Dallago, Evan Trop, Bernardo P. de Almeida, Hassan Sirelkhatim, Guillaume Richard, Marcin Skwark, Karim Beguir, Marie Lopez, Thomas Pierrot.   
+*bioRxiv, September 2023.*  
+[[10.1101/2023.01.11.523679](https://doi.org/10.1101/2023.01.11.523679)][[github code](https://github.com/instadeepai/nucleotide-transformer)][[hugging face](https://huggingface.co/collections/InstaDeepAI/nucleotide-transformer-65099cdde13ff96230f2e592)]  
+
+**HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution.**
+Eric Nguyen, Michael Poli, Marjan Faizi, Armin Thomas, Callum Birch-Sykes, Michael Wornow, Aman Patel, Clayton Rabideau, Stefano Massaroli, Yoshua Bengio, Stefano Ermon, Stephen A. Baccus, Chris Ré.  
+*arXiv, June 2023.*  
+[[10.48550/arXiv.2306.15794](https://doi.org/10.48550/arXiv.2306.15794)][[github code](https://github.com/HazyResearch/hyena-dna)][[hugging face](https://huggingface.co/papers/2306.15794)]
+
+****
+
+
 
 ## DL-based enhancer design
 
