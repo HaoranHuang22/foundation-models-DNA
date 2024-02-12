@@ -24,6 +24,16 @@ David R. Kelley, Jasper Snoek, and John L. Rinn.
 *Genome Research, May 2016.*  
 [[10.1101/gr.200535.115](http://www.genome.org/cgi/doi/10.1101/gr.200535.115)][[github code](https://github.com/davek44/Basset)]
 
+**Integrating regulatory DNA sequence and gene expression to predict genome-wide chromatin accessibility across cellular contexts.**  
+Surag Nair, Daniel S Kim, Jacob Perricone, Anshul Kundaje.  
+*Bioinformatics, July 2019.*  
+[[10.1093/bioinformatics/btz352](https://doi.org/10.1093/bioinformatics/btz352)][[github code](https://github.com/kundajelab/ChromDragoNN)]
+
+**scBasset: sequence-based modeling of single-cell ATAC-seq using convolutional neural networks.**  
+Han Yuan, David R. Kelley.  
+*Nature Methods, August 2022.*  
+[[10.1038/s41592-022-01562-8](https://doi.org/10.1038/s41592-022-01562-8)][[github code](https://github.com/calico/scBasset)]
+
 **EpiGePT: a Pretrained Transformer model for epigenomics.**
 Zijing Gao, Qiao Liu, Wanwen Zeng, Rui Jiang, Wing Hung Wong.  
 *bioRxiv, February 2024.*  
