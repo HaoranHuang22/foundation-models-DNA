@@ -9,15 +9,39 @@ I am doing my master thesis about learning DNA sequence activity like accessibil
 [Predicting gene expression from sequence](#predicting-gene-expression-from-sequence)  
 [Genomic Foundation Models](#genomic-foundation-models)  
 [DL-based enhancer design](#dl-based-enhancer-design)  
-
+[Datasets](#datasets)
 
 
 ## Reviews
+**Chromatin accessibility and the regulatory epigenome.**  
+Sandy L. Klemm, Zohar Shipony, William J. Greenleaf.  
+*Nature Reviews Genetics, January 2019.*  
+[[10.1038/s41576-018-0089-8](https://doi.org/10.1038/s41576-018-0089-8)]
 
-## Predicting chromatin accessibility from sequence
+## Predicting chromatin accessibility from sequence  
+**Basset: learning the regulatory code of the accessible genome with deep convolutional neural networks.**  
+David R. Kelley, Jasper Snoek, and John L. Rinn.  
+*Genome Research, May 2016.*  
+[[10.1101/gr.200535.115](http://www.genome.org/cgi/doi/10.1101/gr.200535.115)][[github code](https://github.com/davek44/Basset)]
 
-## Predicting gene expression from sequence
+## Predicting gene expression from sequence  
+**Sequential regulatory activity prediction across chromosomes with convolutional neural networks.**  
+David R. Kelley, Yakir A. Reshef, Maxwell Bileschi, David Belanger, Cory Y. McLean and Jasper Snoek.  
+*Genome Research, March 2018.*   
+[[10.1101/gr.227819.117](http://www.genome.org/cgi/doi/10.1101/gr.227819.117)][[github code](https://github.com/calico/basenji)]  
 
 ## Genomic Foundation Models
 
 ## DL-based enhancer design
+
+## Datasets
+**DNaseI Hypersensitivity sites**  
+```bash
+# ENCODE
+wget -r ftp://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeAwgDnaseUniform
+
+# Roadmap
+wget -r -A "*DNase.hotspot.fdr0.01.peaks.bed.gz" http://egg2.wustl.edu/roadmap/data/byFileType/peaks/consolidated/narrowPeak
+```
+
+
